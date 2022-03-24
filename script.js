@@ -6,6 +6,7 @@
 3. BONUS: Add a random button which generates two random numbers for the colour inputs.
  */
 
+//You got this!
 let css = document.querySelector("h3");
 let color1 = document.querySelector(".color1");
 let color2 = document.querySelector(".color2");
